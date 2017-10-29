@@ -101,7 +101,7 @@
 
 > * 📖[Meta Description - HTML - MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML#Adding_an_author_and_description)
 
-* [ ] **Favicons:** ![Medium][medium_img] 每一個 facicon 都需要創立且被正確展示。如果你只有一個 `faicon.ico`，將它放在你的網頁的最下面。通常你不需要對他加以修改。無論如何，這依舊是個好例子，可以跟下方的例子互相呼應。現在比起`.icon`比較推薦 **PNG 的檔案格式**。(大小最少需要: 32x32px)
+* [ ] **Favicons:** ![Medium][medium_img] 每一個 favicon 都需要創立且被正確展示。如果你只有一個 `favicon.ico`，將它放在你的網頁的最下面。通常你不需要對他加以修改。無論如何，這依舊是個好例子，可以跟下方的例子互相呼應。現在比起`.icon`比較推薦 **PNG 的檔案格式**。(大小最少需要: 32x32px)
 
 ```html
 <!-- 一般的 favicon -->
