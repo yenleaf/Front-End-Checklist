@@ -6,7 +6,7 @@
 [![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/thedaviddias/front-end-checklist)
 [![CC0](https://img.shields.io/badge/license-CC0-green.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-**前端清單** 是一份詳細的清單，用來檢查你的網站或網頁公布前所有應該完成的項目。
+**前端開發者清單** 是一份詳細的清單，用來檢查你的網站或網頁公布前所有應該完成的項目。
 這份清單基於我多年的前端工程師工作經驗，以及其他公開的清單資源製作。
 
 *在 Product Hunt 上投票與推薦，協助我們將 Front-End Checklist 分享出去*
@@ -28,7 +28,7 @@
 
 ## 使用方式
 
-**前端確認清單**中的所有項目皆來是大多數專案的需求，針對你的專案時，還是會有某些項目用不到、可以忽略(例如，在行政用途的網頁 APP 中，你可能不需要 RSS 的訂閱功能)。我們依照可以調動的靈活性區分為三個等級：
+**前端開發者清單**中的所有項目皆來是大多數專案的需求，針對你的專案時，還是會有某些項目用不到、可以忽略(例如，在行政用途的網頁 APP 中，你可能不需要 RSS 的訂閱功能)。我們依照可以調動的靈活性區分為三個等級：
 
 * ![Low][low_img] 代表這是個**推薦**項目，但在特定的情況下可以忽略。
 * ![Medium][medium_img] 代表這是**高度推薦**項目，在非常少數的特定情況下可以忽略。其中某些項目，如果忽略了會使效能或 SEO 結果(指搜尋引擎上的排名)很糟。
