@@ -10,6 +10,7 @@
 這份清單基於我多年的前端工程師工作經驗，以及其他公開的清單資源製作。
 
 *在 Product Hunt 上投票與推薦，協助我們將 Front-End Checklist 分享出去*
+
 [![](http://res.cloudinary.com/djnyaloac/image/upload/v1508896898/upvote-producthunt_vzys4c.jpg)](https://www.producthunt.com/posts/front-end-checklist)
 
 ## 目錄
