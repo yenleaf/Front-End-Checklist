@@ -197,7 +197,7 @@ browserconfig.xml 檔案中 xml 最小設定值如下:
 
 ### 社交 meta
 
-***Facebook OG*** 及 ***Twitter Cards***針對所有網頁都高度推薦。關於其他社交媒體的標籤，當你有特別想要確保的社交媒體的顯示功能再考慮。
+***Facebook OG*** 及 ***Twitter Cards*** 針對所有網頁都高度推薦。關於其他社交媒體的標籤，當你有特別想要確保的社交媒體的顯示功能再考慮。
 
 * [ ] **Facebook Open Graph (FB 開放圖形):** ![Low][low_img] 所有 Facebook Open Graph 都有測試過且沒有遺漏掉或出現失敗的訊息。圖檔最小需要 600x315px，推薦大小 1200x630px。
 
