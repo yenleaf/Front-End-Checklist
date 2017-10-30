@@ -101,7 +101,7 @@
 
 > * 📖[Meta Description - HTML - MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML#Adding_an_author_and_description)
 
-* [ ] **Favicons:** ![Medium][medium_img] 每一個 favicon 都需要創立且被正確展示。如果你只有一個 `favicon.ico`，將它放在你的網頁的最下面。通常你不需要對他加以修改。無論如何，這依舊是個好例子，可以跟下方的例子互相呼應。現在比起`.icon`比較推薦 **PNG 的檔案格式**。(大小最少需要: 32x32px)
+* [ ] **Favicons:** ![Medium][medium_img] 每一個 favicon 都需要創立且被正確展示。如果你只有一個 `favicon.ico`，可以將它放在網頁最底層的檔案。通常你不需要對他加以修改。無論如何，這依舊是個好例子，可以跟下方的例子互相呼應。現在比起`.icon`比較推薦 **PNG 的檔案格式**。(大小最少需要: 32x32px)
 
 ```html
 <!-- 一般的 favicon -->
@@ -116,7 +116,7 @@
 > * 📖 [Favicons、手機觸控按鈕 、標題標誌...等等。你需要哪一個? - CSS Tricks](https://css-tricks.com/favicon-quiz/)
 > * 📖 [PNG favicons - caniuse](https://caniuse.com/#feat=link-icon-png)
 
-* [ ] **Apple Touch Icon (蘋果手機觸控按鈕):** ![Low][low_img] Apple 觸控 favicon 設置 apple 手機功能按鈕。*(創造的 apple 按鈕圖檔至少要 200x200px，便能支援所有你需要的螢幕尺寸)*
+* [ ] **Apple Touch Icon (蘋果手機觸控按鈕):** ![Low][low_img] Apple Touch favicon 已設置 Apple Touch Icon。*(200x200px 以上的 apple 按鈕圖檔便能支援大部分你所需螢幕的尺寸)*
 
 ```html
 <!-- 蘋果手機觸控按鈕 -->
@@ -125,7 +125,7 @@
 
 > 📖 [搞懂網頁應用程式](https://developer.apple.com/library/content/documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html)
 
-- [ ] **Windows Tiles:**![Low][low_img] 已設置 Windows Titels 與連結。
+- [ ] **Windows Tiles:**![Low][low_img] 已設置並連結 Windows Titels。
 
 ```html
 <!-- Microsoft Titles -->
